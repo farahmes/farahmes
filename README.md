@@ -1,6 +1,8 @@
 
 
 ### Hi there 👋
+My name is Farah, 
+![casca](https://github.com/farahmes/farahmes/assets/56084806/a6b4e7dc-3444-4a8d-bdf6-4737d0c335b4)
 
 <!--
 **farahmes/farahmes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
